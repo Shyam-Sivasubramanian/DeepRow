@@ -1,0 +1,1 @@
+DeepRow is a Science Fair entry that uses data gathered from professional athletes to provide the user with a score of how good their form on a rowing machine is. The project employed computer vision and pose estimation which was made possible because of several Python libraries such as Scikit Learn, Numpy, OpenCV, and MediaPipe. 
